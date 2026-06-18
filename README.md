@@ -9,11 +9,11 @@ Overall, this dashboard provides managers with a quick and accurate overview of 
 
 ## Project Structure
 
-PowerBI-Sales-Dashboard/
+Excel-PowerQuery-Sales-Analysis/
 │
-├── Dashboard.pbix
+├── Sales_Data.xlsx
 ├── README.md
-└── screenshots/\
+└── images/
 
 
 ## Author
